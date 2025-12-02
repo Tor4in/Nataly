@@ -53,7 +53,7 @@ gsap.to(".hero-text", {
 gsap.fromTo(
   ".content-text h2",
   {
-    y: -100,
+    y: -70,
     opacity: 0,
   },
   {
@@ -71,7 +71,7 @@ gsap.fromTo(
 gsap.fromTo(
   ".content-text p",
   {
-    y: -100,
+    y: -70,
     opacity: 0,
   },
   {
